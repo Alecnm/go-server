@@ -1,0 +1,1 @@
+This is just a proof of concept about http web server in Golang. Short implementation it's what you'll see with a couple of endpoints.
